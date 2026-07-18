@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+transformers
+torch
+spacy
+numpy
+pandas
+tensorflow
+keras
+scikit-learn
+nltk
+opencv-python
